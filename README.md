@@ -32,6 +32,7 @@ Ficam em `skills/` e são linkadas em `~/.claude/skills` (Claude Code) e
 
 - [Refcat](https://refcat.app/pt-br): biblioteca de fluxos reais de apps publicados, exportáveis para Figma ou para agentes (Claude Code, Cursor).
 - [mkdir.directory](https://mkdir.directory/): lista curada e votada de sites gratuitos de inspiração (galerias, prêmios, landing pages).
+- [MotionVideo](https://motionvideo.xyz/pt): vitrine de vídeos com motion gerados por IA, com o prompt e as skills usadas em cada um. Bom para vídeos com HyperFrames ou Remotion.
 - [Emil Kowalski skills](https://github.com/emilkowalski/skills): também serve de referência de animação e acabamento.
 
 ## Workflows
