@@ -15,6 +15,9 @@ for dir in "$HOME/.claude/skills" "$HOME/.agents/skills"; do
   done
 done
 
+echo "==> Remotion skills (Claude Code + Codex)"
+npx -y skills@latest add remotion-dev/skills --global --agent claude-code codex --yes || true
+
 if command -v claude >/dev/null; then
   echo "==> Claude Code"
   claude plugin install mattpocock-skills@claude-plugins-official || true
